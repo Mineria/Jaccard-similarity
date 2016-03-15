@@ -1,0 +1,12 @@
+{
+  "clients" : 500,
+  "products" : 200,
+  "categories" : [
+    "sport",
+    "science",
+    "film",
+    "informatic",
+    "politic",
+    "love"
+  ]
+}
